@@ -64,7 +64,7 @@ def program3():
         prompt = input("Please enter another prompt or 'e' to exit ChatGPT 0.01.")
     print("User has exited ChatGPT 0.01.")
     
-program = input("Welcome! This program contains three mini applications. Please enter 1, 2, or 3 as input to run one the three applications. Otherwise, enter 'e' to exit.")
+program = input("Welcome! This program contains three mini applications. Please enter 1, 2, or 3 as input to run one of the three applications. Otherwise, enter 'e' to exit.")
 
 while (program != "e"):
     if program == "1":
